@@ -6,6 +6,13 @@
     "email": "contact@git.strangeplanet.fr",
     "url": "https://www.strangeplanet.fr"
   },
+  "contributors": [
+    {
+      "name": "Ali Safari",
+      "email": "asafari72@gmail.com",
+      "url": "https://www.alisafari.ir"
+    }
+  ],
   "description": "Fast and small gradients manipulation, built on top of TinyColor",
   "license": "MIT",
   "homepage": "https://github.com/mistic100/tinygradient",

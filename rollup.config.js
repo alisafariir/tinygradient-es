@@ -8,7 +8,7 @@ export default {
     output  : {
         file     : 'browser.js',
         name     : 'tinygradient',
-        format   : 'umd',
+        format   : 'es',
         sourcemap: true,
         globals  : {
             'tinycolor2': 'tinycolor'
