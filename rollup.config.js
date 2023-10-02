@@ -7,7 +7,7 @@ export default {
     input   : 'index.js',
     output  : {
         file     : 'browser.js',
-        name     : 'tinygradient',
+        name     : 'tinygradient-es',
         format   : 'es',
         sourcemap: true,
         globals  : {

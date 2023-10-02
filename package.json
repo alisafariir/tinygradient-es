@@ -1,21 +1,14 @@
 {
-  "name": "tinygradient",
-  "version": "1.1.5",
-  "author": {
-    "name": "Damien \"Mistic\" Sorel",
-    "email": "contact@git.strangeplanet.fr",
-    "url": "https://www.strangeplanet.fr"
+  "name": "tinygradient-es",
+  "version": "1.0.0",
+  "author":{
+    "name": "Ali Safari",
+    "email": "asafari72@gmail.com",
+    "url": "https://www.alisafari.ir"
   },
-  "contributors": [
-    {
-      "name": "Ali Safari",
-      "email": "asafari72@gmail.com",
-      "url": "https://www.alisafari.ir"
-    }
-  ],
   "description": "Fast and small gradients manipulation, built on top of TinyColor",
   "license": "MIT",
-  "homepage": "https://github.com/mistic100/tinygradient",
+  "homepage": "https://github.com/asafari72/tinygradient-es",
   "main": "index.js",
   "browser": "browser.js",
   "types": "types.d.ts",
@@ -47,10 +40,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mistic100/tinygradient.git"
+    "url": "git://github.com/asafari72/tinygradient-es"
   },
   "bugs": {
-    "url": "https://github.com/mistic100/tinygradient/issues"
+    "url": "https://github.com/asafari72/tinygradient-es/issues"
   },
   "scripts": {
     "test": "mocha tests/*",
